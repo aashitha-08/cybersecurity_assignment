@@ -1,0 +1,16 @@
+===================================
+     AUTOMATED BACKUP SCRIPT       
+===================================
+Backup Type:
+1. Simple Copy
+2. Compressed Archive (tar.gz)
+[*] Starting backup...
+[*] Source: test_backup
+[*] Destination: backups
+Backup successfully completed.
+
+Backup Details:
+File     : backup_20260224_083841
+Location : backups
+Size     : 4.0K
+Time     : 0 seconds

@@ -1,0 +1,12 @@
+==============================================
+|        SYSTEM INFORMATION DISPLAY          |
+==============================================
+| Username      : kali                      |
+| Hostname      : kali                      |
+| Date & Time   : 2026-02-24 00:59:38       |
+| OS            : Linux                     |
+| Current Dir   : /home/kali/Aashitha_BashAssignment |
+| Home Dir      : /home/kali                |
+| Users Online  : 1                         |
+| Uptime        : up 4 hours, 2 minutes     |
+==============================================

@@ -1,0 +1,138 @@
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+Listing files...
+total 20K
+-rw-rw-r-- 1 kali kali  565 Feb 24 00:59 output_q1.txt
+-rw-rw-r-- 1 kali kali  357 Feb 24 01:39 output_q2.txt
+-rwxrwxr-x 1 kali kali  833 Feb 24 00:56 q1_system_info.sh
+-rwxrwxr-x 1 kali kali 2.4K Feb 24 01:30 q2_file_manager.sh
+-rw-rw-r-- 1 kali kali    0 Feb 24 00:32 q3_log_analyzer.sh
+-rw-rw-r-- 1 kali kali    0 Feb 24 00:32 q4_backup.sh
+-rw-rw-r-- 1 kali kali    0 Feb 24 00:33 q5_user_report.sh
+-rw-rw-r-- 1 kali kali    0 Feb 24 00:33 README.txt
+drwxrwxr-x 2 kali kali 4.0K Feb 24 01:35 testdir
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+Directory exists
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+File created.
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+File not found!
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+File renamed successfully.
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+Searching...
+./new
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+Number of files      : 37
+Number of directories: 19
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+File deleted successfully.
+
+----------------------------------------
+      FILE & DIRECTORY MANAGER          
+----------------------------------------
+1. List files in current directory
+2. Create a new directory
+3. Create a new file
+4. Delete a file
+5. Rename a file
+6. Search for a file
+7. Count files and directories
+8. Exit
+----------------------------------------
+Exiting successfully
+
