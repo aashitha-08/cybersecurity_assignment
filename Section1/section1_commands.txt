@@ -1,0 +1,31 @@
+#1. List all files along with hidden files with sizes
+ls -lah
+
+# 2. Find all .txt files in home directory and subdirectories
+find ~ -type f -name "*.txt"
+
+# 3. Show last 20 lines of scan_results.txt
+tail -n 20 scan_results.txt
+
+# 4. Count lines containing "OPEN"
+grep -c "OPEN" scan_results.txt
+
+# 5. Create directory structure
+mkdir -p security/tools/scanners
+
+# 6. Make exploit.sh executable by everyone
+chmod +x exploit.sh
+
+# 7. Display user, hostname, current directory
+whoami
+hostname
+pwd
+
+# 8. Find files modified in last 7 days
+find . -type f -mtime -7
+
+# 9. Search for "password" in current directory
+grep -r "password" .
+
+# 10. Display system info
+uname -a

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keylogger Demo</title>
+</head>
+<body>
+
+<h2>Keylogger Demo</h2>
+<input type="text" id="inputBox" placeholder="Type something here">
+
+<p>Captured Keys:</p>
+<p id="output"></p>
+
+<script>
+document.addEventListener("keydown", function(event) {
+    let key = event.key;
+    document.getElementById("output").innerHTML += key;
+});
+</script>
+
+<!--
+This demonstrates how keylogging works.
+It captures user keystrokes and displays them.
+In real scenarios, attackers can misuse this to steal sensitive data.
+-->
+
+</body>
+</html>
